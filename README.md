@@ -12,9 +12,9 @@ Saved the predictions for the testing data labels by using the testing feature d
 
 Evaluated the model’s performance by doing the following:
 
-Generating a confusion matrix.
+1- Generating a confusion matrix.
 
-Printing the classification report.
+2- Printing the classification report.
 
 
 
